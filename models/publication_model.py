@@ -31,7 +31,11 @@ class Publication(BaseModel):
 
         # Extract title (it's usually a list with one element)
         title = data['message']['title'][0]
-        publication_date = date(*data["message"]["published"]["date-parts"][0])
+        date_parts = data["message"]["published"]["date-parts"][0]
+        if len(date_parts) == 2:
+            # Assume given year, month and append first day of month
+            date_parts.append(1)
+        publication_date = date(*date_parts)
 
         authors = [
             Author(

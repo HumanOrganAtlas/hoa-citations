@@ -16,7 +16,11 @@ def scrape():
             if dataset_doi not in all_datasets:
                 all_datasets[dataset_doi] = Dataset.from_doi(dataset_doi)
 
-            all_datasets[dataset_doi].publications.append(Publication.from_doi(doi=publication_doi))
+            try:
+                all_datasets[dataset_doi].publications.append(Publication.from_doi(doi=publication_doi))
+            except Exception as e:
+                print(f"Error getting information for {publication_doi} from crossref")
+                continue
 
     for dataset in all_datasets:
         output_fpath = Path(__file__).parent / "data" / f"{dataset.replace('/', '--')}.json"
