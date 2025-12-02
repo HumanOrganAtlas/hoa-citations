@@ -20,7 +20,9 @@ if __name__ == "__main__":
         authors = ", ".join([p.name.replace(" ", "&nbsp;") for p in pub.authors])
         md_text += f"**{pub.title}**<br><br>{authors} ({pub.publication_date.year})<br><br>[DOI:{pub.doi}](https://dx.doi.org/{pub.doi})\n"
         md_text += "<hr>\n"
+    md_text += "*Is your publication missing? Email d.stansby@ucl.ac.uk with the publication DOI, and a list of HOA datasets it uses.*"
     html = markdown.markdown(md_text)
+
     with open(Path(__file__).parent / "html" / "index.html", "w", encoding="UTF-8") as f:
         f.write('<meta http-equiv="Content-Type" content="text/html; charset=utf-8">\n')
         f.write('<link rel="stylesheet" href="style.css">\n')
