@@ -1,0 +1,84 @@
+{
+    "doi": "10.15151/ESRF-DC-572190117",
+    "publications": [
+        {
+            "doi": "10.1038/s41592-021-01317-x",
+            "title": "Imaging intact human organs with local resolution of cellular structures using hierarchical phase-contrast tomography",
+            "publication_date": "2021-11-04",
+            "authors": [
+                {
+                    "name": "C. L. Walsh",
+                    "orcid": "https://orcid.org/0000-0003-3769-3392"
+                },
+                {
+                    "name": "P. Tafforeau",
+                    "orcid": "https://orcid.org/0000-0002-5962-1683"
+                },
+                {
+                    "name": "W. L. Wagner",
+                    "orcid": null
+                },
+                {
+                    "name": "D. J. Jafree",
+                    "orcid": null
+                },
+                {
+                    "name": "A. Bellier",
+                    "orcid": "https://orcid.org/0000-0003-0907-0315"
+                },
+                {
+                    "name": "C. Werlein",
+                    "orcid": "https://orcid.org/0000-0002-7694-4257"
+                },
+                {
+                    "name": "M. P. Kühnel",
+                    "orcid": null
+                },
+                {
+                    "name": "E. Boller",
+                    "orcid": null
+                },
+                {
+                    "name": "S. Walker-Samuel",
+                    "orcid": "https://orcid.org/0000-0003-3530-9166"
+                },
+                {
+                    "name": "J. L. Robertus",
+                    "orcid": null
+                },
+                {
+                    "name": "D. A. Long",
+                    "orcid": "https://orcid.org/0000-0001-6580-3435"
+                },
+                {
+                    "name": "J. Jacob",
+                    "orcid": null
+                },
+                {
+                    "name": "S. Marussi",
+                    "orcid": null
+                },
+                {
+                    "name": "E. Brown",
+                    "orcid": null
+                },
+                {
+                    "name": "N. Holroyd",
+                    "orcid": "https://orcid.org/0000-0001-9174-1346"
+                },
+                {
+                    "name": "D. D. Jonigk",
+                    "orcid": null
+                },
+                {
+                    "name": "M. Ackermann",
+                    "orcid": "https://orcid.org/0000-0001-9996-2477"
+                },
+                {
+                    "name": "P. D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                }
+            ]
+        }
+    ]
+}

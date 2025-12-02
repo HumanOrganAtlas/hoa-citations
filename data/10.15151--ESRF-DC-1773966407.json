@@ -1,0 +1,56 @@
+{
+    "doi": "10.15151/ESRF-DC-1773966407",
+    "publications": [
+        {
+            "doi": "10.1101/2025.05.15.654263",
+            "title": "Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning",
+            "publication_date": "2025-05-19",
+            "authors": [
+                {
+                    "name": "Yang Zhou",
+                    "orcid": "https://orcid.org/0000-0001-5474-9605"
+                },
+                {
+                    "name": "Shahab Aslani",
+                    "orcid": "https://orcid.org/0009-0007-6298-7874"
+                },
+                {
+                    "name": "Yousef Javanmardi",
+                    "orcid": "https://orcid.org/0000-0002-7260-8395"
+                },
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": "https://orcid.org/0000-0002-8424-9510"
+                },
+                {
+                    "name": "David Stansby",
+                    "orcid": "https://orcid.org/0000-0002-1365-1908"
+                },
+                {
+                    "name": "Saskia Carroll",
+                    "orcid": null
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": "https://orcid.org/0000-0003-0907-0315"
+                },
+                {
+                    "name": "Maximilian Ackermann",
+                    "orcid": "https://orcid.org/0000-0001-9996-2477"
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": "https://orcid.org/0000-0002-5962-1683"
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": "https://orcid.org/0000-0003-3769-3392"
+                }
+            ]
+        }
+    ]
+}

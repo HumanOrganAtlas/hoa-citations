@@ -1,0 +1,68 @@
+{
+    "doi": "10.15151/ESRF-DC-1773966217",
+    "publications": [
+        {
+            "doi": "10.1038/s44303-025-00090-2",
+            "title": "Mapping the arterial vascular network in an intact human kidney using hierarchical phase-contrast tomography",
+            "publication_date": "2025-09-03",
+            "authors": [
+                {
+                    "name": "Shahrokh Rahmani",
+                    "orcid": null
+                },
+                {
+                    "name": "Daniyal J. Jafree",
+                    "orcid": null
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": null
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": null
+                },
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": null
+                },
+                {
+                    "name": "Sonal Nandanwar",
+                    "orcid": null
+                },
+                {
+                    "name": "Yang Zhou",
+                    "orcid": null
+                },
+                {
+                    "name": "Joseph Jacob",
+                    "orcid": null
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": null
+                },
+                {
+                    "name": "Maximilian Ackermann",
+                    "orcid": null
+                },
+                {
+                    "name": "Danny D. Jonigk",
+                    "orcid": null
+                },
+                {
+                    "name": "Rebecca J. Shipley",
+                    "orcid": null
+                },
+                {
+                    "name": "David A. Long",
+                    "orcid": null
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": null
+                }
+            ]
+        }
+    ]
+}

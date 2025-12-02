@@ -1,0 +1,76 @@
+{
+    "doi": "10.15151/ESRF-DC-1659198628",
+    "publications": [
+        {
+            "doi": "10.1148/radiol.232731",
+            "title": "Multidimensional Analysis of the Adult Human Heart in Health and                     Disease Using Hierarchical Phase-Contrast Tomography",
+            "publication_date": "2024-07-01",
+            "authors": [
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": "https://orcid.org/0000-0002-8424-9510"
+                },
+                {
+                    "name": "Andrew C. Cook",
+                    "orcid": "https://orcid.org/0000-0001-5079-7546"
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": "https://orcid.org/0000-0003-3769-3392"
+                },
+                {
+                    "name": "James Cranley",
+                    "orcid": "https://orcid.org/0000-0002-0408-5801"
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": "https://orcid.org/0000-0002-5962-1683"
+                },
+                {
+                    "name": "Klaus Engel",
+                    "orcid": "https://orcid.org/0009-0001-1423-898X"
+                },
+                {
+                    "name": "Owen Arthurs",
+                    "orcid": "https://orcid.org/0000-0003-1213-3516"
+                },
+                {
+                    "name": "Camille Berruyer",
+                    "orcid": null
+                },
+                {
+                    "name": "Emer Burke O’Leary",
+                    "orcid": "https://orcid.org/0000-0002-8831-8077"
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": "https://orcid.org/0000-0003-0907-0315"
+                },
+                {
+                    "name": "Ryo Torii",
+                    "orcid": "https://orcid.org/0000-0001-9479-8719"
+                },
+                {
+                    "name": "Christopher Werlein",
+                    "orcid": "https://orcid.org/0000-0002-7694-4257"
+                },
+                {
+                    "name": "Danny D. Jonigk",
+                    "orcid": "https://orcid.org/0000-0002-5251-2281"
+                },
+                {
+                    "name": "Maximilian Ackermann",
+                    "orcid": null
+                },
+                {
+                    "name": "Kathleen Dollman",
+                    "orcid": "https://orcid.org/0000-0002-5468-4896"
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                }
+            ]
+        }
+    ]
+}

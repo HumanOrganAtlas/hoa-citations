@@ -1,0 +1,56 @@
+{
+    "doi": "10.15151/ESRF-DC-572221364",
+    "publications": [
+        {
+            "doi": "10.1038/s41597-022-01353-y",
+            "title": "A multiscale X-ray phase-contrast tomography dataset of a whole human left lung",
+            "publication_date": "2022-06-02",
+            "authors": [
+                {
+                    "name": "R. Patrick Xian",
+                    "orcid": null
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": null
+                },
+                {
+                    "name": "Stijn E. Verleden",
+                    "orcid": null
+                },
+                {
+                    "name": "Willi L. Wagner",
+                    "orcid": null
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": null
+                },
+                {
+                    "name": "Sebastian Marussi",
+                    "orcid": null
+                },
+                {
+                    "name": "Maximilian Ackermann",
+                    "orcid": null
+                },
+                {
+                    "name": "Danny D. Jonigk",
+                    "orcid": "https://orcid.org/0000-0002-5251-2281"
+                },
+                {
+                    "name": "Joseph Jacob",
+                    "orcid": null
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": "https://orcid.org/0000-0002-5962-1683"
+                }
+            ]
+        }
+    ]
+}

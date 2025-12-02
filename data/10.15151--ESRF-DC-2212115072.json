@@ -1,0 +1,112 @@
+{
+    "doi": "10.15151/ESRF-DC-2212115072",
+    "publications": [
+        {
+            "doi": "10.1007/s10456-025-10004-w",
+            "title": "Revealing the unseen: 3D synchrotron X-Ray imaging of uterine vasculature in adenomyosis",
+            "publication_date": "2025-11-01",
+            "authors": [
+                {
+                    "name": "Veerle M. W. Michels",
+                    "orcid": "https://orcid.org/0009-0006-1587-7691"
+                },
+                {
+                    "name": "Adam Szmul",
+                    "orcid": "https://orcid.org/0000-0002-3068-1068"
+                },
+                {
+                    "name": "Joseph Jacob",
+                    "orcid": "https://orcid.org/0000-0002-8054-2293"
+                },
+                {
+                    "name": "Hector Dejea",
+                    "orcid": "https://orcid.org/0000-0003-2584-9812"
+                },
+                {
+                    "name": "Bernadette S. de Bakker",
+                    "orcid": "https://orcid.org/0000-0003-0758-4064"
+                },
+                {
+                    "name": "Judith A. F. Huirne",
+                    "orcid": "https://orcid.org/0000-0002-8248-2677"
+                },
+                {
+                    "name": "HOAHub Uterine Consortium",
+                    "orcid": null
+                },
+                {
+                    "name": "Yousif Dawood",
+                    "orcid": null
+                },
+                {
+                    "name": "Daniël Docter",
+                    "orcid": null
+                },
+                {
+                    "name": "Lynda J. M. Juffermans",
+                    "orcid": null
+                },
+                {
+                    "name": "Nicole B. Burger",
+                    "orcid": null
+                },
+                {
+                    "name": "Richard A. Schoonhoven",
+                    "orcid": null
+                },
+                {
+                    "name": "Jermo Hanemaaijer - van der Veer",
+                    "orcid": null
+                },
+                {
+                    "name": "Naem Donner",
+                    "orcid": null
+                },
+                {
+                    "name": "Daisuke Yamada",
+                    "orcid": null
+                },
+                {
+                    "name": "Ryoko Egashira",
+                    "orcid": null
+                },
+                {
+                    "name": "Shahab Aslani",
+                    "orcid": null
+                },
+                {
+                    "name": "Stijn E. Verleden",
+                    "orcid": null
+                },
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": null
+                },
+                {
+                    "name": "Theresa Urban",
+                    "orcid": null
+                },
+                {
+                    "name": "Joanna Purzycka",
+                    "orcid": null
+                },
+                {
+                    "name": "Ruikang Xue",
+                    "orcid": null
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": null
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": null
+                }
+            ]
+        }
+    ]
+}

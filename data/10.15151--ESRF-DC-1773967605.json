@@ -1,0 +1,119 @@
+{
+    "doi": "10.15151/ESRF-DC-1773967605",
+    "publications": [
+        {
+            "doi": "10.1038/s44303-025-00090-2",
+            "title": "Mapping the arterial vascular network in an intact human kidney using hierarchical phase-contrast tomography",
+            "publication_date": "2025-09-03",
+            "authors": [
+                {
+                    "name": "Shahrokh Rahmani",
+                    "orcid": null
+                },
+                {
+                    "name": "Daniyal J. Jafree",
+                    "orcid": null
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": null
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": null
+                },
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": null
+                },
+                {
+                    "name": "Sonal Nandanwar",
+                    "orcid": null
+                },
+                {
+                    "name": "Yang Zhou",
+                    "orcid": null
+                },
+                {
+                    "name": "Joseph Jacob",
+                    "orcid": null
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": null
+                },
+                {
+                    "name": "Maximilian Ackermann",
+                    "orcid": null
+                },
+                {
+                    "name": "Danny D. Jonigk",
+                    "orcid": null
+                },
+                {
+                    "name": "Rebecca J. Shipley",
+                    "orcid": null
+                },
+                {
+                    "name": "David A. Long",
+                    "orcid": null
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": null
+                }
+            ]
+        },
+        {
+            "doi": "10.1101/2025.05.15.654263",
+            "title": "Multiscale Segmentation using Hierarchical Phase-contrast Tomography and Deep Learning",
+            "publication_date": "2025-05-19",
+            "authors": [
+                {
+                    "name": "Yang Zhou",
+                    "orcid": "https://orcid.org/0000-0001-5474-9605"
+                },
+                {
+                    "name": "Shahab Aslani",
+                    "orcid": "https://orcid.org/0009-0007-6298-7874"
+                },
+                {
+                    "name": "Yousef Javanmardi",
+                    "orcid": "https://orcid.org/0000-0002-7260-8395"
+                },
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": "https://orcid.org/0000-0002-8424-9510"
+                },
+                {
+                    "name": "David Stansby",
+                    "orcid": "https://orcid.org/0000-0002-1365-1908"
+                },
+                {
+                    "name": "Saskia Carroll",
+                    "orcid": null
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": "https://orcid.org/0000-0003-0907-0315"
+                },
+                {
+                    "name": "Maximilian Ackermann",
+                    "orcid": "https://orcid.org/0000-0001-9996-2477"
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": "https://orcid.org/0000-0002-5962-1683"
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": "https://orcid.org/0000-0003-3769-3392"
+                }
+            ]
+        }
+    ]
+}

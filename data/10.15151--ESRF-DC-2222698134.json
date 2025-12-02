@@ -1,0 +1,116 @@
+{
+    "doi": "10.15151/ESRF-DC-2222698134",
+    "publications": [
+        {
+            "doi": "10.1101/2025.09.22.673638",
+            "title": "Fast segmentation with the NextBrain histological atlas",
+            "publication_date": "2025-09-25",
+            "authors": [
+                {
+                    "name": "Oula Puonti",
+                    "orcid": null
+                },
+                {
+                    "name": "Jackson Nolan",
+                    "orcid": null
+                },
+                {
+                    "name": "Robert Dicamillo",
+                    "orcid": null
+                },
+                {
+                    "name": "Yael Balbastre",
+                    "orcid": null
+                },
+                {
+                    "name": "Adria Casamitjana",
+                    "orcid": null
+                },
+                {
+                    "name": "Matteo Mancini",
+                    "orcid": null
+                },
+                {
+                    "name": "Eleanor Robinson",
+                    "orcid": null
+                },
+                {
+                    "name": "Loic Peter",
+                    "orcid": null
+                },
+                {
+                    "name": "Roberto Annunziata",
+                    "orcid": null
+                },
+                {
+                    "name": "Juri Althonayan",
+                    "orcid": null
+                },
+                {
+                    "name": "Shauna Crampsie",
+                    "orcid": null
+                },
+                {
+                    "name": "Emily Blackburn",
+                    "orcid": null
+                },
+                {
+                    "name": "Benjamin Billot",
+                    "orcid": null
+                },
+                {
+                    "name": "Alessia Atzeni",
+                    "orcid": null
+                },
+                {
+                    "name": "Peter Schmidt",
+                    "orcid": null
+                },
+                {
+                    "name": "James Hughes",
+                    "orcid": null
+                },
+                {
+                    "name": "Jean Augustinack",
+                    "orcid": null
+                },
+                {
+                    "name": "Brian Edlow",
+                    "orcid": "https://orcid.org/0000-0001-7235-8456"
+                },
+                {
+                    "name": "Lilla Zöllei",
+                    "orcid": null
+                },
+                {
+                    "name": "David L Thomas",
+                    "orcid": null
+                },
+                {
+                    "name": "Dorit Kliemann",
+                    "orcid": null
+                },
+                {
+                    "name": "Martina Bocchetta",
+                    "orcid": null
+                },
+                {
+                    "name": "Catherine Strand",
+                    "orcid": null
+                },
+                {
+                    "name": "Janice Holton",
+                    "orcid": null
+                },
+                {
+                    "name": "Zane Jaunmuktane",
+                    "orcid": null
+                },
+                {
+                    "name": "Juan Eugenio Iglesias",
+                    "orcid": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "doi": "10.15151/ESRF-DC-572244468",
+    "publications": [
+        {
+            "doi": "10.1101/2024.08.25.609595",
+            "title": "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys",
+            "publication_date": "2024-08-26",
+            "authors": [
+                {
+                    "name": "Yashvardhan Jain",
+                    "orcid": "https://orcid.org/0000-0002-6300-5568"
+                },
+                {
+                    "name": "Claire L. Walsh",
+                    "orcid": "https://orcid.org/0000-0003-3769-3392"
+                },
+                {
+                    "name": "Ekin Yagis",
+                    "orcid": "https://orcid.org/0000-0003-3510-3141"
+                },
+                {
+                    "name": "Shahab Aslani",
+                    "orcid": "https://orcid.org/0009-0007-6298-7874"
+                },
+                {
+                    "name": "Sonal Nandanwar",
+                    "orcid": null
+                },
+                {
+                    "name": "Yang Zhou",
+                    "orcid": "https://orcid.org/0000-0001-5474-9605"
+                },
+                {
+                    "name": "Juhyung Ha",
+                    "orcid": "https://orcid.org/0000-0002-6596-5116"
+                },
+                {
+                    "name": "Katherine S. Gustilo",
+                    "orcid": "https://orcid.org/0000-0002-5574-4272"
+                },
+                {
+                    "name": "Joseph Brunet",
+                    "orcid": "https://orcid.org/0000-0002-8424-9510"
+                },
+                {
+                    "name": "Shahrokh Rahmani",
+                    "orcid": "https://orcid.org/0000-0002-5773-7076"
+                },
+                {
+                    "name": "Paul Tafforeau",
+                    "orcid": "https://orcid.org/0000-0002-5962-1683"
+                },
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": "https://orcid.org/0000-0003-0907-0315"
+                },
+                {
+                    "name": "Griffin M. Weber",
+                    "orcid": "https://orcid.org/0000-0002-2597-881X"
+                },
+                {
+                    "name": "Peter D. Lee",
+                    "orcid": "https://orcid.org/0000-0002-3898-8881"
+                },
+                {
+                    "name": "Katy Börner",
+                    "orcid": "https://orcid.org/0000-0002-3321-6137"
+                }
+            ]
+        }
+    ]
+}

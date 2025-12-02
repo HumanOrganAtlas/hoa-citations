@@ -1,0 +1,36 @@
+{
+    "doi": "10.15151/ESRF-DC-572252655",
+    "publications": [
+        {
+            "doi": "10.1007/s00276-024-03467-x",
+            "title": "Micro to macro scale anatomical analysis of the human hippocampal arteries with synchrotron hierarchical phase-contrast tomography",
+            "publication_date": "2024-09-03",
+            "authors": [
+                {
+                    "name": "Alexandre Bellier",
+                    "orcid": "https://orcid.org/0000-0003-0907-0315"
+                },
+                {
+                    "name": "P. Tafforeau",
+                    "orcid": null
+                },
+                {
+                    "name": "A. Bouziane",
+                    "orcid": null
+                },
+                {
+                    "name": "T. Angelloz-Nicoud",
+                    "orcid": null
+                },
+                {
+                    "name": "P. D. Lee",
+                    "orcid": null
+                },
+                {
+                    "name": "C. Walsh",
+                    "orcid": null
+                }
+            ]
+        }
+    ]
+}
