@@ -2,7 +2,9 @@ import json5
 from models.dataset_model import Dataset
 from models.publication_model import Publication
 from pathlib import Path
-if __name__ == "__main__":
+
+
+def scrape():
     citations = json5.load(open("citations.json5"))
     print(f"Found {len(citations)} publications")
 
@@ -20,3 +22,6 @@ if __name__ == "__main__":
         output_fpath = Path(__file__).parent / "data" / f"{dataset.replace('/', '--')}.json"
         with output_fpath.open("w") as f:
             f.write(all_datasets[dataset].model_dump_json(indent=4))
+
+if __name__ == "__main__":
+    scrape()

@@ -2,8 +2,10 @@ import markdown
 from pathlib import Path
 from models.dataset_model import Dataset
 from models.publication_model import Publication
+from scrape_citations import scrape
 
 if __name__ == "__main__":
+    scrape()
     md_text = ""
     md_text += "# Research using data from [The Human Organ Atlas](https://human-organ-atlas.esrf.fr/)\n"
     md_text += "\n"
@@ -15,6 +17,7 @@ if __name__ == "__main__":
             pubs[pub.doi] = pub
 
     pubs_sorted = sorted(pubs.values(), key=lambda pub: pub.publication_date)
+    md_text += f"Number of publications: {len(pubs_sorted)}\n"
     md_text += "<hr>\n"
     for pub in pubs_sorted[::-1]:
         authors = ", ".join([p.name.replace(" ", "&nbsp;") for p in pub.authors])
